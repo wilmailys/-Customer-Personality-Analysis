@@ -12,4 +12,4 @@ Con ayuda del método del codo “Elbow Mehthod” inicie la exploración para d
 El propósito de este proyecto es predecir cómo responderán los diferentes segmentos de clientes a un producto o servicio en particular a través del Análisis de la Personalidad del Cliente. 
 
 
-![Image text](https://miro.medium.com/max/708/1*AOsYdaBHHNCminBHTB2TSg.gif)
+![Image text](https://cdn.dribbble.com/users/753807/screenshots/5415673/people.gif)
