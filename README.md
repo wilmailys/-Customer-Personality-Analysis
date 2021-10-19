@@ -12,4 +12,4 @@ Con ayuda del método del codo “Elbow Mehthod” inicie la exploración para d
 El propósito de este proyecto es predecir cómo responderán los diferentes segmentos de clientes a un producto o servicio en particular a través del Análisis de la Personalidad del Cliente. 
 
 
-![Image text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1280px-Image_created_with_a_mobile_phone.png)
+![Image text](http://1.bp.blogspot.com/-EYTCmXAiKQo/VhlIjQSUCvI/AAAAAAAAACA/DWyjsGz5Kcc/s320/analisis_transaccional_madrid.gif)
