@@ -12,4 +12,4 @@ Con ayuda del método del codo “Elbow Mehthod” inicie la exploración para d
 El propósito de este proyecto es predecir cómo responderán los diferentes segmentos de clientes a un producto o servicio en particular a través del Análisis de la Personalidad del Cliente. 
 
 
-![Image text](https://cdn.dribbble.com/users/753807/screenshots/5415673/people.gif)
+![Image text](https://i1.wp.com/apolo.marketing/wp-content/uploads/2017/10/como-identificar-el-cliente-ideal.gif?zoom=2.625&resize=412%2C320&ssl=1)
